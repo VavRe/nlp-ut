@@ -1,15 +1,15 @@
-اینترنت_مشکلات_فعال سازی سرویس__1	اینترنت_مشکلات_فعال سازی سرویس__2	اینترنت_مشکلات_فعال سازی سرویس__3	
-اینترنت_مشکلات_غیر فعال سازی سرویس__1	اینترنت_مشکلات_غیر فعال سازی سرویس__2	
-اینترنت_مشکلات_سرویس آموزش__1	اینترنت_مشکلات_سرویس آموزش__2	
-اینترنت_مشکلات_مشکلات اتصال به اینترنت__1	اینترنت_مشکلات_مشکلات اتصال به اینترنت__2	اینترنت_مشکلات_مشکلات اتصال به اینترنت__3	اینترنت_مشکلات_مشکلات اتصال به اینترنت__4	اینترنت_مشکلات_مشکلات اتصال به اینترنت__5	اینترنت_مشکلات_مشکلات اتصال به اینترنت__6	
-اینترنت_مشکلات_4G و 4.5G__1	اینترنت_مشکلات_4G و 4.5G__2	اینترنت_مشکلات_4G و 4.5G__3	اینترنت_مشکلات_4G و 4.5G__4	
-اینترنت_بسته_بسته‌های اینترنت__1	اینترنت_بسته_بسته‌های اینترنت__2	اینترنت_بسته_بسته‌های اینترنت__3	
-اینترنت_بسته_خرید بسته از شاپ (فروشگاه)__1	اینترنت_بسته_خرید بسته از شاپ (فروشگاه)__2	
-اینترنت_بسته_خرید بسته از *100#__1	
-اینترنت_بسته_نام تجاری نوترینو__1	اینترنت_بسته_نام تجاری نوترینو__2	
-اینترنت_بسته_بسته‌های اینترنت پاک__1	
-اینترنت_بسته_بسته‌های ساعات مشخص__1	اینترنت_بسته_بسته‌های ساعات مشخص__2	اینترنت_بسته_بسته‌های ساعات مشخص__3	اینترنت_بسته_بسته‌های ساعات مشخص__4	اینترنت_بسته_بسته‌های ساعات مشخص__5	
-اینترنت_بسته_بسته ویژه مشترکین جدید__1	اینترنت_بسته_بسته ویژه مشترکین جدید__2	اینترنت_بسته_بسته ویژه مشترکین جدید__3	
-اینترنت_بسته_استعلام بسته__1	اینترنت_بسته_استعلام بسته__2	اینترنت_بسته_استعلام بسته__3	اینترنت_بسته_استعلام بسته__4	
-اینترنت_بسته_لغو تمدید بسته__1	اینترنت_بسته_لغو تمدید بسته__2	اینترنت_بسته_لغو تمدید بسته__3	اینترنت_بسته_لغو تمدید بسته__4	اینترنت_بسته_لغو تمدید بسته__5	اینترنت_بسته_لغو تمدید بسته__6	اینترنت_بسته_لغو تمدید بسته__7	
-اینترنت_بسته_بسته‌های نامحدود شبانه__1	اینترنت_بسته_بسته‌های نامحدود شبانه__2	اینترنت_بسته_بسته‌های نامحدود شبانه__3	اینترنت_بسته_بسته‌های نامحدود شبانه__4	اینترنت_بسته_بسته‌های نامحدود شبانه__5	
+Internet_Problems_Service Activation__1	Internet_Problems_Service Activation__2	Internet_Problems_Service Activation__3	
+Internet_Problems_Service Deactivation__1	Internet_Problems_Service Deactivation__2	
+Internet_Problems_Educational Service__1	Internet_Problems_Educational Service__2	
+Internet_Problems_Internet Connection Problems__1	Internet_Problems_Internet Connection Problems__2	Internet_Problems_Internet Connection Problems__3	Internet_Problems_Internet Connection Problems__4	Internet_Problems_Internet Connection Problems__5	Internet_Problems_Internet Connection Problems__6	
+Internet_Problems_4G and 4.5G__1	Internet_Problems_4G and 4.5G__2	Internet_Problems_4G and 4.5G__3	Internet_Problems_4G and 4.5G__4	
+Internet_Package_Internet Packages__1	Internet_Package_Internet Packages__2	Internet_Package_Internet Packages__3	
+Internet_Package_Package Purchase from Shop__1	Internet_Package_Package Purchase from Shop__2	
+Internet_Package_Package Purchase from *100#__1	
+Internet_Package_Notrino Brand__1	Internet_Package_Notrino Brand__2	
+Internet_Package_Pocket Internet Packages__1	
+Internet_Package_Specific Hour Packages__1	Internet_Package_Specific Hour Packages__2	Internet_Package_Specific Hour Packages__3	Internet_Package_Specific Hour Packages__4	Internet_Package_Specific Hour Packages__5	
+Internet_Package_Special Package for New Subscribers__1	Internet_Package_Special Package for New Subscribers__2	Internet_Package_Special Package for New Subscribers__3	
+Internet_Package_Package Inquiry__1	Internet_Package_Package Inquiry__2	Internet_Package_Package Inquiry__3	Internet_Package_Package Inquiry__4	
+Internet_Package_Package Renewal Cancellation__1	Internet_Package_Package Renewal Cancellation__2	Internet_Package_Package Renewal Cancellation__3	Internet_Package_Package Renewal Cancellation__4	Internet_Package_Package Renewal Cancellation__5	Internet_Package_Package Renewal Cancellation__6	Internet_Package_Package Renewal Cancellation__7	
+Internet_Package_Unlimited Night Packages__1	Internet_Package_Unlimited Night Packages__2	Internet_Package_Unlimited Night Packages__3	Internet_Package_Unlimited Night Packages__4	Internet_Package_Unlimited Night Packages__5	

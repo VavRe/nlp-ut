@@ -1,5 +1,7 @@
 
 language: en
+
+
 pipeline:
 - name: WhitespaceTokenizer
 - name: LanguageModelFeaturizer
@@ -9,6 +11,9 @@ pipeline:
   epochs: 100
   learning_rate: 0.001
 - name: ResponseSelector
+  epochs: 100
+
+
 policies:
 - name: MemoizationPolicy
 - name: TEDPolicy

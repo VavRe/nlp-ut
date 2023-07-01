@@ -1,0 +1,370 @@
+[
+  {
+    "text": "راه غیر فعال سازی سرویس اینترنت با استفاده از کد دستوری چیست؟",
+    "intent": "internet_problems_service_deactivation__1",
+    "intent_prediction": {
+      "name": "internet_problems_service_activation__1",
+      "confidence": 0.2583778202533722
+    }
+  },
+  {
+    "text": "سرویس اینترنتم نیاز به غیر فعالسازی داره؟ پیامکی هم میشه؟",
+    "intent": "internet_problems_service_deactivation__2",
+    "intent_prediction": {
+      "name": "internet_problems_educational_service__2",
+      "confidence": 0.5655631422996521
+    }
+  },
+  {
+    "text": "وقتی به فیلترشکن وصل میشم اینترنتم کار نمیکنه چیکار کنم؟",
+    "intent": "internet_problems_internet_connection_problems__1",
+    "intent_prediction": {
+      "name": "internet_problems_internet_connection_problems__3",
+      "confidence": 0.2760452330112457
+    }
+  },
+  {
+    "text": "مشکلات مرورگر هم بررسی میکنین؟",
+    "intent": "internet_problems_internet_connection_problems__3",
+    "intent_prediction": {
+      "name": "internet_package_notrino_brand__1",
+      "confidence": 0.18897013366222382
+    }
+  },
+  {
+    "text": "هیچ سایت روی هیچ مرورگری باز نمیشه با گوشیم و خط همراه اولم، باید چیکار کنم؟",
+    "intent": "internet_problems_internet_connection_problems__3",
+    "intent_prediction": {
+      "name": "internet_problems_internet_connection_problems__5",
+      "confidence": 0.4514042139053345
+    }
+  },
+  {
+    "text": "مشکل باز نشدن سایتا تو مرورگر گوشی اندرویدم چجوری درست میشن؟",
+    "intent": "internet_problems_internet_connection_problems__5",
+    "intent_prediction": {
+      "name": "internet_problems_internet_connection_problems__3",
+      "confidence": 0.6656725406646729
+    }
+  },
+  {
+    "text": "چرا با مشکل عدم اتصال گوشی به اینترنت خط مواجه میشوم؟",
+    "intent": "internet_problems_internet_connection_problems__6",
+    "intent_prediction": {
+      "name": "internet_problems_internet_connection_problems__3",
+      "confidence": 0.30501222610473633
+    }
+  },
+  {
+    "text": "چیکار کنم تا گوشیم به اینترنت خطم متصل بشه ؟",
+    "intent": "internet_problems_internet_connection_problems__6",
+    "intent_prediction": {
+      "name": "internet_problems_internet_connection_problems__1",
+      "confidence": 0.19511377811431885
+    }
+  },
+  {
+    "text": "طی دو سال آینده میشه از اینترنت پر سرعت 4.5G همه جا استفاده کرد؟",
+    "intent": "internet_problems_4g_and_4.5g__2",
+    "intent_prediction": {
+      "name": "internet_problems_4g_and_4.5g__1",
+      "confidence": 0.5496227741241455
+    }
+  },
+  {
+    "text": "میخوام خط 4g بخرم ولی نمیدونم گوشیم پشتیبانی میکنه یا نه",
+    "intent": "internet_problems_4g_and_4.5g__3",
+    "intent_prediction": {
+      "name": "internet_package_package_renewal_cancellation__6",
+      "confidence": 0.26496055722236633
+    }
+  },
+  {
+    "text": "راهی هست مطمئن شد که گوشیم ۴ g است؟",
+    "intent": "internet_problems_4g_and_4.5g__3",
+    "intent_prediction": {
+      "name": "internet_problems_internet_connection_problems__4",
+      "confidence": 0.2355838567018509
+    }
+  },
+  {
+    "text": "چرا مبلغ کم شده از کارت من با مبلغ اعلام شده برای بسته متفاوت است؟",
+    "intent": "internet_package_internet_packages__1",
+    "intent_prediction": {
+      "name": "internet_package_internet_packages__3",
+      "confidence": 0.200743168592453
+    }
+  },
+  {
+    "text": "می تونم بپرسم چقدر زمان می برد تا هزینه کم شده از حسابم برای خرید نا موفق شارژ  یا بسته اینترنتی از شاپ برگردد؟",
+    "intent": "internet_package_package_purchase_from_shop__2",
+    "intent_prediction": {
+      "name": "internet_package_unlimited_night_packages__2",
+      "confidence": 0.10735622048377991
+    }
+  },
+  {
+    "text": "کد ستاره ۱۰۰ مربع میشه بسته پر سرعت اینترنت گرفت؟",
+    "intent": "internet_package_package_purchase_from_*100#__1",
+    "intent_prediction": {
+      "name": "internet_problems_internet_connection_problems__3",
+      "confidence": 0.13780668377876282
+    }
+  },
+  {
+    "text": "چه کدی رو برای فعال کردن بسته نوترینو شماره گیری کنم؟",
+    "intent": "internet_package_package_purchase_from_*100#__1",
+    "intent_prediction": {
+      "name": "internet_package_package_renewal_cancellation__1",
+      "confidence": 0.12586408853530884
+    }
+  },
+  {
+    "text": "برای خرید بسته اینترنت چه شماره ای بگیرم؟",
+    "intent": "internet_package_package_purchase_from_*100#__1",
+    "intent_prediction": {
+      "name": "internet_package_specific_hour_packages__5",
+      "confidence": 0.15158256888389587
+    }
+  },
+  {
+    "text": "راه خرید بسته اینترنت پر سرعت از طریق کد چیه؟",
+    "intent": "internet_package_package_purchase_from_*100#__1",
+    "intent_prediction": {
+      "name": "internet_problems_service_deactivation__2",
+      "confidence": 0.1929825097322464
+    }
+  },
+  {
+    "text": "بسته های ساعات مشخص چه فرقی با بقیه دارند؟",
+    "intent": "internet_package_specific_hour_packages__1",
+    "intent_prediction": {
+      "name": "internet_package_specific_hour_packages__4",
+      "confidence": 0.5006816387176514
+    }
+  },
+  {
+    "text": "میشه روی بسته نوترینو بسته ساعات مشخص صبحانت یا نا محدود شبانه فعال کرد؟",
+    "intent": "internet_package_specific_hour_packages__1",
+    "intent_prediction": {
+      "name": "internet_package_specific_hour_packages__4",
+      "confidence": 0.5354195833206177
+    }
+  },
+  {
+    "text": "دو تا بسته ساعات مشخص به صورت همزمان میشه فعال کرد؟",
+    "intent": "internet_package_specific_hour_packages__2",
+    "intent_prediction": {
+      "name": "internet_package_specific_hour_packages__1",
+      "confidence": 0.30567532777786255
+    }
+  },
+  {
+    "text": "امکان فعال سازی همزمان دو بسته ساعات مشخص وجود دارد؟",
+    "intent": "internet_package_specific_hour_packages__2",
+    "intent_prediction": {
+      "name": "internet_package_specific_hour_packages__4",
+      "confidence": 0.2180875986814499
+    }
+  },
+  {
+    "text": "آیا ممکن است دو بسته اینترنت صبحانت با هم فعال کرد؟",
+    "intent": "internet_package_specific_hour_packages__2",
+    "intent_prediction": {
+      "name": "internet_package_unlimited_night_packages__2",
+      "confidence": 0.19218657910823822
+    }
+  },
+  {
+    "text": "آیا در فعال سازی جفت بسته های اینترنت شبانه روزی و ساعت مشخص، محدودیتی وجود دارد ؟",
+    "intent": "internet_package_specific_hour_packages__3",
+    "intent_prediction": {
+      "name": "internet_package_specific_hour_packages__4",
+      "confidence": 0.2031780481338501
+    }
+  },
+  {
+    "text": "من خطم ۹۱۲ عه، می‌تونم بسته صبحانت بخرم؟",
+    "intent": "internet_package_specific_hour_packages__4",
+    "intent_prediction": {
+      "name": "internet_package_specific_hour_packages__5",
+      "confidence": 0.3917894959449768
+    }
+  },
+  {
+    "text": "بسته صبحانت می خواهم، شماره ای دارد بگیرم؟",
+    "intent": "internet_package_specific_hour_packages__5",
+    "intent_prediction": {
+      "name": "internet_problems_4g_and_4.5g__3",
+      "confidence": 0.19196975231170654
+    }
+  },
+  {
+    "text": "بسته ویژه مشترکین جدید می خواهم، شماره ای دارد بگیرم؟",
+    "intent": "internet_package_special_package_for_new_subscribers__1",
+    "intent_prediction": {
+      "name": "internet_package_special_package_for_new_subscribers__2",
+      "confidence": 0.29731327295303345
+    }
+  },
+  {
+    "text": "شرایط خرید بسته اینترنت آلفا پلاس ویژه مشترکین جدید از نرم افزار همراه من چیست؟",
+    "intent": "internet_package_special_package_for_new_subscribers__2",
+    "intent_prediction": {
+      "name": "internet_package_special_package_for_new_subscribers__1",
+      "confidence": 0.41059955954551697
+    }
+  },
+  {
+    "text": "شرایط فعال کردن بسته های ویژه مشترکین جدید چیه؟",
+    "intent": "internet_package_special_package_for_new_subscribers__3",
+    "intent_prediction": {
+      "name": "internet_package_specific_hour_packages__1",
+      "confidence": 0.15868815779685974
+    }
+  },
+  {
+    "text": "چرا بسته ویژه مشترکین نمیتونم بخرم؟",
+    "intent": "internet_package_special_package_for_new_subscribers__3",
+    "intent_prediction": {
+      "name": "internet_package_special_package_for_new_subscribers__1",
+      "confidence": 0.19605492055416107
+    }
+  },
+  {
+    "text": "تا چه زمان جز مشترکین جدید به حساب می آیم؟",
+    "intent": "internet_package_special_package_for_new_subscribers__3",
+    "intent_prediction": {
+      "name": "internet_problems_educational_service__2",
+      "confidence": 0.1880076378583908
+    }
+  },
+  {
+    "text": "كد دستوري داريم واسه فهميدن اين كه چقدر از بسته مونده؟",
+    "intent": "internet_package_package_inquiry__1",
+    "intent_prediction": {
+      "name": "internet_package_internet_packages__1",
+      "confidence": 0.281779944896698
+    }
+  },
+  {
+    "text": "روش استعلام بسته‌هاي اينترنت با كد دستوري چيست؟",
+    "intent": "internet_package_package_inquiry__1",
+    "intent_prediction": {
+      "name": "internet_package_package_inquiry__2",
+      "confidence": 0.24254564940929413
+    }
+  },
+  {
+    "text": "چطور مي توان باقيمانده بسته هاي اينترنت را با كد دستوري متوجه شد؟",
+    "intent": "internet_package_package_inquiry__1",
+    "intent_prediction": {
+      "name": "internet_package_notrino_brand__1",
+      "confidence": 0.12182533740997314
+    }
+  },
+  {
+    "text": "میشه بهم بگید چقدر از بسته نتم مونده؟ خطم اعتباریه با استفاده از کد دستوری",
+    "intent": "internet_package_package_inquiry__2",
+    "intent_prediction": {
+      "name": "internet_package_package_inquiry__1",
+      "confidence": 0.1982567310333252
+    }
+  },
+  {
+    "text": "استعلام بسته های اینترنت  نرم افزار همراه من قابل انجام است؟",
+    "intent": "internet_package_package_inquiry__4",
+    "intent_prediction": {
+      "name": "internet_package_package_inquiry__3",
+      "confidence": 0.320585161447525
+    }
+  },
+  {
+    "text": "با اپلیکیشن همراه من می‌توان استعلام بسته‌ّهای اینترنت را گرفت؟",
+    "intent": "internet_package_package_inquiry__4",
+    "intent_prediction": {
+      "name": "internet_package_package_inquiry__1",
+      "confidence": 0.2241641730070114
+    }
+  },
+  {
+    "text": "آیا میشه بسته اینترنتی تمدیدی رو تغییر داد؟",
+    "intent": "internet_package_package_renewal_cancellation__1",
+    "intent_prediction": {
+      "name": "internet_package_internet_packages__2",
+      "confidence": 0.6640691757202148
+    }
+  },
+  {
+    "text": "چطور میتونم بسته اینترنتم رو با کد دستوری عوض کنم؟",
+    "intent": "internet_package_package_renewal_cancellation__1",
+    "intent_prediction": {
+      "name": "internet_problems_service_activation__1",
+      "confidence": 0.3548455238342285
+    }
+  },
+  {
+    "text": "بسته اینترنت رزروم اگر فعال بشه بهم اطلاع داده میشه؟",
+    "intent": "internet_package_package_renewal_cancellation__3",
+    "intent_prediction": {
+      "name": "internet_package_package_renewal_cancellation__6",
+      "confidence": 0.8742270469665527
+    }
+  },
+  {
+    "text": "ایا به کمک اس ام اس بهم اطلاع داده میشه که بسته رزروم تمدید شده؟",
+    "intent": "internet_package_package_renewal_cancellation__3",
+    "intent_prediction": {
+      "name": "internet_package_package_renewal_cancellation__4",
+      "confidence": 0.19368338584899902
+    }
+  },
+  {
+    "text": "بعد از فعال شدن بسته رزرو ایا بهم پیامک میشه که فعال شده؟",
+    "intent": "internet_package_package_renewal_cancellation__6",
+    "intent_prediction": {
+      "name": "internet_package_package_renewal_cancellation__3",
+      "confidence": 0.873957633972168
+    }
+  },
+  {
+    "text": "ایا به کمک اس ام اس بهم اطلاع داده میشه که بسته رزروم فعال شده؟",
+    "intent": "internet_package_package_renewal_cancellation__6",
+    "intent_prediction": {
+      "name": "internet_package_package_renewal_cancellation__3",
+      "confidence": 0.46623772382736206
+    }
+  },
+  {
+    "text": "چطور میتونم از وجود بسته رزروم اطمینان حاصل کنم؟",
+    "intent": "internet_package_package_renewal_cancellation__6",
+    "intent_prediction": {
+      "name": "internet_package_package_renewal_cancellation__3",
+      "confidence": 0.1510593146085739
+    }
+  },
+  {
+    "text": "آیا با تمام شدن بسته نامحدود شبانه تعرفه عادی حساب میشه؟",
+    "intent": "internet_package_unlimited_night_packages__4",
+    "intent_prediction": {
+      "name": "internet_package_unlimited_night_packages__5",
+      "confidence": 0.36844298243522644
+    }
+  },
+  {
+    "text": "آیا استعلام بسته نامحدود شبانه بدون اینترنت ممکنه؟",
+    "intent": "internet_package_unlimited_night_packages__5",
+    "intent_prediction": {
+      "name": "internet_package_package_renewal_cancellation__6",
+      "confidence": 0.15182091295719147
+    }
+  },
+  {
+    "text": "آیا میشه بسته نامحدود شبانه رو با کد دستوری خریداری کرد؟",
+    "intent": "internet_package_unlimited_night_packages__5",
+    "intent_prediction": {
+      "name": "internet_problems_internet_connection_problems__5",
+      "confidence": 0.14922434091567993
+    }
+  }
+]

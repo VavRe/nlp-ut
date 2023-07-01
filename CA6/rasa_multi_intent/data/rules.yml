@@ -1,9 +1,204 @@
-version: "3.1"
-
-rules:
+version: "3.1" 
 
 
-- rule: respond to FAQs
-  steps:
-  - intent: faq
-  - action: utter_faq
+rules: 
+- rule: respond to internet_package_internet_packages__1 
+  steps: 
+  - intent: internet_package_internet_packages__1 
+  - action: utter_internet_package_internet_packages__1 
+- rule: respond to internet_package_internet_packages__2 
+  steps: 
+  - intent: internet_package_internet_packages__2 
+  - action: utter_internet_package_internet_packages__2 
+- rule: respond to internet_package_internet_packages__3 
+  steps: 
+  - intent: internet_package_internet_packages__3 
+  - action: utter_internet_package_internet_packages__3 
+- rule: respond to internet_package_notrino_brand__1 
+  steps: 
+  - intent: internet_package_notrino_brand__1 
+  - action: utter_internet_package_notrino_brand__1 
+- rule: respond to internet_package_notrino_brand__2 
+  steps: 
+  - intent: internet_package_notrino_brand__2 
+  - action: utter_internet_package_notrino_brand__2 
+- rule: respond to internet_package_package_inquiry__1 
+  steps: 
+  - intent: internet_package_package_inquiry__1 
+  - action: utter_internet_package_package_inquiry__1 
+- rule: respond to internet_package_package_inquiry__2 
+  steps: 
+  - intent: internet_package_package_inquiry__2 
+  - action: utter_internet_package_package_inquiry__2 
+- rule: respond to internet_package_package_inquiry__3 
+  steps: 
+  - intent: internet_package_package_inquiry__3 
+  - action: utter_internet_package_package_inquiry__3 
+- rule: respond to internet_package_package_inquiry__4 
+  steps: 
+  - intent: internet_package_package_inquiry__4 
+  - action: utter_internet_package_package_inquiry__4 
+- rule: respond to internet_package_package_purchase_from_*100#__1 
+  steps: 
+  - intent: internet_package_package_purchase_from_*100#__1 
+  - action: utter_internet_package_package_purchase_from_*100#__1 
+- rule: respond to internet_package_package_purchase_from_shop__1 
+  steps: 
+  - intent: internet_package_package_purchase_from_shop__1 
+  - action: utter_internet_package_package_purchase_from_shop__1 
+- rule: respond to internet_package_package_purchase_from_shop__2 
+  steps: 
+  - intent: internet_package_package_purchase_from_shop__2 
+  - action: utter_internet_package_package_purchase_from_shop__2 
+- rule: respond to internet_package_package_renewal_cancellation__1 
+  steps: 
+  - intent: internet_package_package_renewal_cancellation__1 
+  - action: utter_internet_package_package_renewal_cancellation__1 
+- rule: respond to internet_package_package_renewal_cancellation__2 
+  steps: 
+  - intent: internet_package_package_renewal_cancellation__2 
+  - action: utter_internet_package_package_renewal_cancellation__2 
+- rule: respond to internet_package_package_renewal_cancellation__3 
+  steps: 
+  - intent: internet_package_package_renewal_cancellation__3 
+  - action: utter_internet_package_package_renewal_cancellation__3 
+- rule: respond to internet_package_package_renewal_cancellation__4 
+  steps: 
+  - intent: internet_package_package_renewal_cancellation__4 
+  - action: utter_internet_package_package_renewal_cancellation__4 
+- rule: respond to internet_package_package_renewal_cancellation__5 
+  steps: 
+  - intent: internet_package_package_renewal_cancellation__5 
+  - action: utter_internet_package_package_renewal_cancellation__5 
+- rule: respond to internet_package_package_renewal_cancellation__6 
+  steps: 
+  - intent: internet_package_package_renewal_cancellation__6 
+  - action: utter_internet_package_package_renewal_cancellation__6 
+- rule: respond to internet_package_package_renewal_cancellation__7 
+  steps: 
+  - intent: internet_package_package_renewal_cancellation__7 
+  - action: utter_internet_package_package_renewal_cancellation__7 
+- rule: respond to internet_package_pocket_internet_packages__1 
+  steps: 
+  - intent: internet_package_pocket_internet_packages__1 
+  - action: utter_internet_package_pocket_internet_packages__1 
+- rule: respond to internet_package_special_package_for_new_subscribers__1 
+  steps: 
+  - intent: internet_package_special_package_for_new_subscribers__1 
+  - action: utter_internet_package_special_package_for_new_subscribers__1 
+- rule: respond to internet_package_special_package_for_new_subscribers__2 
+  steps: 
+  - intent: internet_package_special_package_for_new_subscribers__2 
+  - action: utter_internet_package_special_package_for_new_subscribers__2 
+- rule: respond to internet_package_special_package_for_new_subscribers__3 
+  steps: 
+  - intent: internet_package_special_package_for_new_subscribers__3 
+  - action: utter_internet_package_special_package_for_new_subscribers__3 
+- rule: respond to internet_package_specific_hour_packages__1 
+  steps: 
+  - intent: internet_package_specific_hour_packages__1 
+  - action: utter_internet_package_specific_hour_packages__1 
+- rule: respond to internet_package_specific_hour_packages__2 
+  steps: 
+  - intent: internet_package_specific_hour_packages__2 
+  - action: utter_internet_package_specific_hour_packages__2 
+- rule: respond to internet_package_specific_hour_packages__3 
+  steps: 
+  - intent: internet_package_specific_hour_packages__3 
+  - action: utter_internet_package_specific_hour_packages__3 
+- rule: respond to internet_package_specific_hour_packages__4 
+  steps: 
+  - intent: internet_package_specific_hour_packages__4 
+  - action: utter_internet_package_specific_hour_packages__4 
+- rule: respond to internet_package_specific_hour_packages__5 
+  steps: 
+  - intent: internet_package_specific_hour_packages__5 
+  - action: utter_internet_package_specific_hour_packages__5 
+- rule: respond to internet_package_unlimited_night_packages__1 
+  steps: 
+  - intent: internet_package_unlimited_night_packages__1 
+  - action: utter_internet_package_unlimited_night_packages__1 
+- rule: respond to internet_package_unlimited_night_packages__2 
+  steps: 
+  - intent: internet_package_unlimited_night_packages__2 
+  - action: utter_internet_package_unlimited_night_packages__2 
+- rule: respond to internet_package_unlimited_night_packages__3 
+  steps: 
+  - intent: internet_package_unlimited_night_packages__3 
+  - action: utter_internet_package_unlimited_night_packages__3 
+- rule: respond to internet_package_unlimited_night_packages__4 
+  steps: 
+  - intent: internet_package_unlimited_night_packages__4 
+  - action: utter_internet_package_unlimited_night_packages__4 
+- rule: respond to internet_package_unlimited_night_packages__5 
+  steps: 
+  - intent: internet_package_unlimited_night_packages__5 
+  - action: utter_internet_package_unlimited_night_packages__5 
+- rule: respond to internet_problems_4g_and_4.5g__1 
+  steps: 
+  - intent: internet_problems_4g_and_4.5g__1 
+  - action: utter_internet_problems_4g_and_4.5g__1 
+- rule: respond to internet_problems_4g_and_4.5g__2 
+  steps: 
+  - intent: internet_problems_4g_and_4.5g__2 
+  - action: utter_internet_problems_4g_and_4.5g__2 
+- rule: respond to internet_problems_4g_and_4.5g__3 
+  steps: 
+  - intent: internet_problems_4g_and_4.5g__3 
+  - action: utter_internet_problems_4g_and_4.5g__3 
+- rule: respond to internet_problems_4g_and_4.5g__4 
+  steps: 
+  - intent: internet_problems_4g_and_4.5g__4 
+  - action: utter_internet_problems_4g_and_4.5g__4 
+- rule: respond to internet_problems_educational_service__1 
+  steps: 
+  - intent: internet_problems_educational_service__1 
+  - action: utter_internet_problems_educational_service__1 
+- rule: respond to internet_problems_educational_service__2 
+  steps: 
+  - intent: internet_problems_educational_service__2 
+  - action: utter_internet_problems_educational_service__2 
+- rule: respond to internet_problems_internet_connection_problems__1 
+  steps: 
+  - intent: internet_problems_internet_connection_problems__1 
+  - action: utter_internet_problems_internet_connection_problems__1 
+- rule: respond to internet_problems_internet_connection_problems__2 
+  steps: 
+  - intent: internet_problems_internet_connection_problems__2 
+  - action: utter_internet_problems_internet_connection_problems__2 
+- rule: respond to internet_problems_internet_connection_problems__3 
+  steps: 
+  - intent: internet_problems_internet_connection_problems__3 
+  - action: utter_internet_problems_internet_connection_problems__3 
+- rule: respond to internet_problems_internet_connection_problems__4 
+  steps: 
+  - intent: internet_problems_internet_connection_problems__4 
+  - action: utter_internet_problems_internet_connection_problems__4 
+- rule: respond to internet_problems_internet_connection_problems__5 
+  steps: 
+  - intent: internet_problems_internet_connection_problems__5 
+  - action: utter_internet_problems_internet_connection_problems__5 
+- rule: respond to internet_problems_internet_connection_problems__6 
+  steps: 
+  - intent: internet_problems_internet_connection_problems__6 
+  - action: utter_internet_problems_internet_connection_problems__6 
+- rule: respond to internet_problems_service_activation__1 
+  steps: 
+  - intent: internet_problems_service_activation__1 
+  - action: utter_internet_problems_service_activation__1 
+- rule: respond to internet_problems_service_activation__2 
+  steps: 
+  - intent: internet_problems_service_activation__2 
+  - action: utter_internet_problems_service_activation__2 
+- rule: respond to internet_problems_service_activation__3 
+  steps: 
+  - intent: internet_problems_service_activation__3 
+  - action: utter_internet_problems_service_activation__3 
+- rule: respond to internet_problems_service_deactivation__1 
+  steps: 
+  - intent: internet_problems_service_deactivation__1 
+  - action: utter_internet_problems_service_deactivation__1 
+- rule: respond to internet_problems_service_deactivation__2 
+  steps: 
+  - intent: internet_problems_service_deactivation__2 
+  - action: utter_internet_problems_service_deactivation__2 

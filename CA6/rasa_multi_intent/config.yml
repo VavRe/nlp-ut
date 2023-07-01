@@ -8,10 +8,8 @@ pipeline:
   model_name: bert
   model_weights: "rasa/LaBSE"
 - name: "DIETClassifier"
-  epochs: 100
-  learning_rate: 0.001
-- name: ResponseSelector
   epochs: 50
+  learning_rate: 0.001
 
 
 policies:

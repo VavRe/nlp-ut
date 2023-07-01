@@ -1,0 +1,71 @@
+version: "3.1"
+
+
+forms:
+  restaurant_form:
+    required_slots:
+        - cuisine
+        - num_people
+        - outdoor_seating
+
+entities:
+  - cuisine
+  - number
+slots:
+  cuisine:
+    type: text
+    mappings:
+    - type: from_entity
+      entity: cuisine
+  num_people:
+    type: float
+    mappings:
+    - type: from_entity
+      entity: number
+  outdoor_seating:
+    type: bool
+    mappings:
+    - type: from_intent
+      intent: affirm
+      value: true
+      conditions:
+       - active_loop: restaurant_form
+         requested_slot: outdoor_seating
+    - type: from_intent
+      intent: deny
+      value: false
+      conditions:
+      - active_loop: restaurant_form
+        requested_slot: outdoor_seating
+
+
+intents:
+  - request_restaurant
+  - affirm
+  - deny
+  - inform
+
+
+responses:
+  utter_ask_cuisine:
+    - text: "What cuisine?"
+  utter_ask_num_people:
+    - text: "How many people?"
+  utter_ask_outdoor_seating:
+    - text: "Do you want to sit outside?"
+
+
+responses:
+  utter_submit:
+  - text: "All done!"
+  utter_slots_values:
+  - text: "I am going to run a restaurant search using the following parameters:\n
+            - cuisine: {cuisine}\n
+            - num_people: {num_people}\n
+            - outdoor_seating: {outdoor_seating}"
+
+
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

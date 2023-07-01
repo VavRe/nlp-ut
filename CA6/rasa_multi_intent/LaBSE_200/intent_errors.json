@@ -1,0 +1,202 @@
+[
+  {
+    "text": "فعال شدن سرویس اینترنت چجوریه؟",
+    "intent": "internet_problems_service_activation__1",
+    "intent_prediction": {
+      "name": "internet_problems_service_activation__2",
+      "confidence": 0.2431468516588211
+    }
+  },
+  {
+    "text": "چرا مبلغ کم شده از کارت من با مبلغ اعلام شده برای بسته متفاوت است؟",
+    "intent": "internet_package_internet_packages__1",
+    "intent_prediction": {
+      "name": "internet_package_internet_packages__3",
+      "confidence": 0.30583569407463074
+    }
+  },
+  {
+    "text": "آیا اگر بسته اینترنتم رو لغو کنم پولم استرداد میشه؟",
+    "intent": "internet_package_internet_packages__2",
+    "intent_prediction": {
+      "name": "internet_package_package_renewal_cancellation__1",
+      "confidence": 0.30780449509620667
+    }
+  },
+  {
+    "text": "برای خرید بسته اینترنت چه شماره ای بگیرم؟",
+    "intent": "internet_package_package_purchase_from_*100#__1",
+    "intent_prediction": {
+      "name": "internet_package_pocket_internet_packages__1",
+      "confidence": 0.37132811546325684
+    }
+  },
+  {
+    "text": "من سرویس اینترنت رو فعال کردم، برای خرید بسته نوترینو باید سرویس نوترینو هم فعال کنم؟",
+    "intent": "internet_package_notrino_brand__2",
+    "intent_prediction": {
+      "name": "internet_package_package_purchase_from_*100#__1",
+      "confidence": 0.5978807806968689
+    }
+  },
+  {
+    "text": "نوترینو همون بسته اینترنت است؟",
+    "intent": "internet_package_notrino_brand__2",
+    "intent_prediction": {
+      "name": "internet_package_package_purchase_from_*100#__1",
+      "confidence": 0.44572606682777405
+    }
+  },
+  {
+    "text": "تفاوت ساعات مشخص با نوترینو چیه؟",
+    "intent": "internet_package_specific_hour_packages__1",
+    "intent_prediction": {
+      "name": "internet_package_notrino_brand__2",
+      "confidence": 0.5460928678512573
+    }
+  },
+  {
+    "text": "میشه روی بسته نوترینو بسته ساعات مشخص صبحانت یا نا محدود شبانه فعال کرد؟",
+    "intent": "internet_package_specific_hour_packages__1",
+    "intent_prediction": {
+      "name": "internet_package_specific_hour_packages__4",
+      "confidence": 0.3962235152721405
+    }
+  },
+  {
+    "text": "آیا ممکن است دو بسته اینترنت صبحانت با هم فعال کرد؟",
+    "intent": "internet_package_specific_hour_packages__2",
+    "intent_prediction": {
+      "name": "internet_package_package_purchase_from_shop__2",
+      "confidence": 0.10656113922595978
+    }
+  },
+  {
+    "text": "آیا نوع بسته های اینترنت در هنگام فعال سازی، در ترتیب مصرف آنها تاثیر می‌گذارد ؟",
+    "intent": "internet_package_specific_hour_packages__3",
+    "intent_prediction": {
+      "name": "internet_package_package_renewal_cancellation__3",
+      "confidence": 0.29391616582870483
+    }
+  },
+  {
+    "text": "آیا میتوان بسته های اینترنت شبانه روزی را زودتر از بسته های دیگر مصرف کرد ؟",
+    "intent": "internet_package_specific_hour_packages__3",
+    "intent_prediction": {
+      "name": "internet_package_unlimited_night_packages__1",
+      "confidence": 0.1951753944158554
+    }
+  },
+  {
+    "text": "آیا در فعال سازی جفت بسته های اینترنت شبانه روزی و ساعت مشخص، محدودیتی وجود دارد ؟",
+    "intent": "internet_package_specific_hour_packages__3",
+    "intent_prediction": {
+      "name": "internet_package_specific_hour_packages__4",
+      "confidence": 0.22025182843208313
+    }
+  },
+  {
+    "text": "آیا امکان تعویض ترتیب مصرف بسته های شبانه روزی با ساعت مشخص وجود دارد ؟",
+    "intent": "internet_package_specific_hour_packages__3",
+    "intent_prediction": {
+      "name": "internet_package_specific_hour_packages__1",
+      "confidence": 0.37305039167404175
+    }
+  },
+  {
+    "text": "شرایط فعال کردن بسته های ویژه مشترکین جدید چیه؟",
+    "intent": "internet_package_special_package_for_new_subscribers__3",
+    "intent_prediction": {
+      "name": "internet_package_special_package_for_new_subscribers__1",
+      "confidence": 0.3234662413597107
+    }
+  },
+  {
+    "text": "چرا بسته ویژه مشترکین نمیتونم بخرم؟",
+    "intent": "internet_package_special_package_for_new_subscribers__3",
+    "intent_prediction": {
+      "name": "internet_package_special_package_for_new_subscribers__1",
+      "confidence": 0.250050812959671
+    }
+  },
+  {
+    "text": "من میخوام بسته ویژه مشترکین جدید بخرم ولی خطا میده، سیم کارتمم تازه خریدم.",
+    "intent": "internet_package_special_package_for_new_subscribers__3",
+    "intent_prediction": {
+      "name": "internet_package_special_package_for_new_subscribers__2",
+      "confidence": 0.3633623719215393
+    }
+  },
+  {
+    "text": "كد دستوري داريم واسه فهميدن اين كه چقدر از بسته مونده؟",
+    "intent": "internet_package_package_inquiry__1",
+    "intent_prediction": {
+      "name": "internet_package_package_renewal_cancellation__6",
+      "confidence": 0.3915189504623413
+    }
+  },
+  {
+    "text": "چطور میتونم بسته اینترنتم رو با کد دستوری عوض کنم؟",
+    "intent": "internet_package_package_renewal_cancellation__1",
+    "intent_prediction": {
+      "name": "internet_package_internet_packages__2",
+      "confidence": 0.41354385018348694
+    }
+  },
+  {
+    "text": "بسته اینترنت رزروم اگر فعال بشه بهم اطلاع داده میشه؟",
+    "intent": "internet_package_package_renewal_cancellation__3",
+    "intent_prediction": {
+      "name": "internet_package_package_renewal_cancellation__6",
+      "confidence": 0.9374257922172546
+    }
+  },
+  {
+    "text": "ایا به کمک اس ام اس بهم اطلاع داده میشه که بسته رزروم تمدید شده؟",
+    "intent": "internet_package_package_renewal_cancellation__3",
+    "intent_prediction": {
+      "name": "internet_package_package_renewal_cancellation__6",
+      "confidence": 0.2808830142021179
+    }
+  },
+  {
+    "text": "بعد از فعال شدن بسته رزرو ایا بهم پیامک میشه که فعال شده؟",
+    "intent": "internet_package_package_renewal_cancellation__6",
+    "intent_prediction": {
+      "name": "internet_package_package_renewal_cancellation__3",
+      "confidence": 0.6884502172470093
+    }
+  },
+  {
+    "text": "خطم یک طرفه شده، از چه طریقی می‌تونم بسته‌هامو مدیریت کنم؟",
+    "intent": "internet_package_package_renewal_cancellation__7",
+    "intent_prediction": {
+      "name": "internet_package_special_package_for_new_subscribers__3",
+      "confidence": 0.21960076689720154
+    }
+  },
+  {
+    "text": "آیا اگر کاربری که یک بسته نامحدود شبانه فعال دارد می­تواند یک بسته دیگر از آن نوع را هم فعال کند؟",
+    "intent": "internet_package_unlimited_night_packages__2",
+    "intent_prediction": {
+      "name": "internet_package_unlimited_night_packages__3",
+      "confidence": 0.34164270758628845
+    }
+  },
+  {
+    "text": "اگه بسته‌ی اینترنت نامحدود شبانم تموم بشه و بسته رزرو هم نداشته باشم چی میشه؟",
+    "intent": "internet_package_unlimited_night_packages__4",
+    "intent_prediction": {
+      "name": "internet_package_package_renewal_cancellation__4",
+      "confidence": 0.3870449960231781
+    }
+  },
+  {
+    "text": "کد مورد استفاده برای استعلام بسته نامحدود چیه؟",
+    "intent": "internet_package_unlimited_night_packages__5",
+    "intent_prediction": {
+      "name": "internet_package_package_inquiry__1",
+      "confidence": 0.6204703450202942
+    }
+  }
+]
